@@ -30,7 +30,7 @@ CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to ta
 - @OstrichA
 
 ## How to Contribute
-- You could suggest an idea in [Issues](https://github.com/hamdivazim/CodeGlob/issues)
+- You could suggest an idea in [Discussions](https://github.com/hamdivazim/CodeGlob/discussions) or in [Issues](https://github.com/hamdivazim/CodeGlob/issues)
 - You could [open a pull request](https://github.com/hamdivazim/CodeGlob/pulls) to improve something you think could be better
 - You could even just be supportive! That helps too :)
 
