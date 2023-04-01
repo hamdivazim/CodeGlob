@@ -1,5 +1,7 @@
-# CodeGlob - The Coding Social Media Project
-<img align="right" height="256" src="https://raw.githubusercontent.com/hamdivazim/CodeGlob/main/icon-codeglob.jpg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamdivazim/CodeGlob/main/codeglob-logo-small.jpg" width="90%"/><br/>
+  <h1>CodeGlob - The Coding Social Media Project</h1>
+</p>
 *NOTE*: This is the temporary place where this project is hosted until it is further into development.
 <br><br>
 
