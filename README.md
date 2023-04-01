@@ -22,9 +22,9 @@ CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to ta
 - _Anonymous_
 - [@Octoboss1305](https://github.com/Octoboss1305)
 ### Advertisement
-- _Anonymous_
+- @jksshorts
 - [@Ethanol9898](https://github.com/Ethanol9898)
-- _Anonymous_
+- [@FootballStuff10](https://www.youtube.com/@footballstuff10)
 ### Debugging
 - [@Octoboss1305](https://github.com/Octoboss1305)
 - @OstrichA
