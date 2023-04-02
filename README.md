@@ -29,7 +29,7 @@ CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to ta
 - [@FootballStuff10](https://www.youtube.com/@footballstuff10)
 ### Debugging
 - [@Octoboss1305](https://github.com/Octoboss1305)
-- @OstrichA
+- [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
 
 ## How to Contribute
 - You could suggest an idea in [Discussions](https://github.com/hamdivazim/CodeGlob/discussions) or in [Issues](https://github.com/hamdivazim/CodeGlob/issues)
