@@ -31,6 +31,8 @@ CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to ta
 ### Debugging
 - [@Octoboss1305](https://github.com/Octoboss1305)
 - [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
+### Others
+Find other members of our team [here](https://github.com/hamdivazim/CodeGlob/blob/main/TEAM.md).
 
 ## How to Contribute
 - You could suggest an idea in [Discussions](https://github.com/hamdivazim/CodeGlob/discussions) or in [Issues](https://github.com/hamdivazim/CodeGlob/issues)
