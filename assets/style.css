@@ -3,6 +3,7 @@
 body {
     font-family: 'Nunito', sans-serif;
     margin: 0;
+    overflow-x: hidden;
 }
 
 .loader {
@@ -14,6 +15,7 @@ body {
     -webkit-animation: spin 2s linear infinite; /* Safari */
     animation: spin 2s linear infinite;
 }
+
   
 /* Safari */
 @-webkit-keyframes spin {
@@ -119,11 +121,27 @@ body {
         position: fixed;
         left: 0.05;
         width: 25%;
+        padding-top: 10px;
     }
 
-    .home-rightcolumn {
+    .home-middlecolumn {
         float: right;
         width: 75%;
+        margin-right: -20px;
+        padding-left: 20px;
+        background-color: #F6F8FA;
+        border: 2px solid #D8DEE4;
+        border-style: none none none solid;
+    }
+
+    .home-leftmiddle {
+        float: left;
+        width: 75%;
+    }
+
+    .home-leftright {
+        float: left;
+        width: 25%;
     }
 }
 
@@ -246,4 +264,10 @@ body {
 
 .float-right {
     float: right;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
 }

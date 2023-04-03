@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
-  <body>
+  <body id="homepage">
     <div class="topnav" id="topnav">
       <a href="home.html" id="logo-nav"><img src="../assets/transparent-logo-small.png" alt="Logo" height="28px"></a>
       <a href="foryou.html">For You</a>
@@ -33,7 +33,7 @@
           <b>BobCodes</b>
         </p>
         
-        <h3><b>Your Posts</b></h3>
+        <h3><b>Your Globs</b></h3>
 
         <div class="dropdown">
           <button class="dropbtn button-style">
@@ -41,7 +41,7 @@
           </button>
           <div class="dropdown-content">
             <button class="button-style" role="button" onclick="redirect('new.html?type=post');">
-              <i class="fa fa-paper-plane"></i> <span style="padding-left:5px;">New Post</span>
+              <i class="fa fa-paper-plane"></i> <span style="padding-left:5px;">New Glob</span>
             </button>
             <button class="button-style" role="button" onclick="redirect('new.html?type=snippet');">
               <i class="fa fa-code"></i> <span style="padding-left:5px;">New Snippet</span>
@@ -67,64 +67,67 @@
           <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
           <b>BobCodes</b>
         </p>
-        <p class="card-mini">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut...
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>BobCodes</b>
-        </p>
-        <p class="card-mini">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut...
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>BobCodes</b>
-        </p>
+
+        <center>
+          <button class="button-style" role="button">
+            <i class="fa fa-eye"></i> <span style="padding-left:5px;">View More</span>
+          </button>
+        </center>
+
       </div>
 
-      <div class="home-rightcolumn">
-        <h1>Top Posts</h1>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>SallyDaPro</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>codingboy_CW</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>GlobGod</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>CodeRulez</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>MrTrodgill</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>YothVases</b>
-        </p>
-        <p class="card">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          <br>
-          <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-          <b>LeRuper</b>
-        </p>
+      <div class="home-middlecolumn">
+        
+        <div class="home-leftmiddle">
+          <h1>Top Globs</h1>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>SallyDaPro</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>codingboy_CW</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>GlobGod</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>CodeRulez</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>MrTrodgill</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>YothVases</b>
+          </p>
+          <p class="card">
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+            <br>
+            <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            <b>LeRuper</b>
+          </p>
+        </div>
+
+        <div class="home-rightmiddle">
+          <p>content here.........</p>
+        </div>
+
       </div>
 
     </div>
