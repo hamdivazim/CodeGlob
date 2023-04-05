@@ -134,14 +134,16 @@ body {
         border-style: none none none solid;
     }
 
-    .home-leftmiddle {
-        float: left;
-        width: 70%;
-    }
-
-    .home-leftright {
-        float: right;
-        width: 30%;
+    @media screen and (min-width: 1000px) {
+        .home-leftmiddle {
+            float: left;
+            width: 70%;
+        }
+    
+        .home-rightmiddle {
+            float: right;
+            width: 30%;
+        }
     }
 }
 
@@ -170,8 +172,6 @@ body {
     padding: 15px;
     margin-right: 20px;
     margin-top: 10px;
-    width: 25%;
-    float: right;
 }
 
 /* CSS */
@@ -229,6 +229,8 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
+    float: right;
+    margin-right: 30px;
 }
 
 .dropdown-content {

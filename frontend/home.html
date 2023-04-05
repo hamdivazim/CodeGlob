@@ -21,21 +21,24 @@
           <b>BobCodes</b>
         </p>
         
-        <h3><b>Your Globs</b></h3>
+        <div style="height:50px;">
+          <b style="font-size:1.17em;display:block;translate:0px 35px;">Your Globs</b>
 
-        <div class="dropdown">
-          <button class="dropbtn button-style">
-            <i class="fa fa-plus"></i> <span style="padding-left:5px;">New</span>
-          </button>
-          <div class="dropdown-content">
-            <button class="button-style" role="button" onclick="redirect('new.html?type=post');">
-              <i class="fa fa-paper-plane"></i> <span style="padding-left:5px;">New Glob</span>
+          <div class="dropdown">
+            <button class="dropbtn button-style">
+              <i class="fa fa-plus"></i> <span style="padding-left:5px;">New</span>
             </button>
-            <button class="button-style" role="button" onclick="redirect('new.html?type=snippet');">
-              <i class="fa fa-code"></i> <span style="padding-left:5px;">New Snippet</span>
-            </button>
+            <div class="dropdown-content">
+              <button class="button-style" role="button" onclick="redirect('new.html?type=post');">
+                <i class="fa fa-paper-plane"></i> <span style="padding-left:5px;">New Glob</span>
+              </button>
+              <button class="button-style" role="button" onclick="redirect('new.html?type=snippet');">
+                <i class="fa fa-code"></i> <span style="padding-left:5px;">New Snippet</span>
+              </button>
+            </div>
           </div>
         </div>
+        <br>
         
         <p class="card-mini">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut...
@@ -155,7 +158,7 @@
           </div>
         </div>
 
-        <center>
+        <center style="margin-bottom:10px;">
           <button class="button-style" role="button" id="notif-more">
             <i class="fa fa-eye"></i> <span style="padding-left:5px;">View More</span>
           </button>
