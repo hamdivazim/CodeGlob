@@ -37,6 +37,7 @@ Find other members of our team [here](https://github.com/hamdivazim/CodeGlob/blo
 ## How to Contribute
 - You could suggest an idea in [Discussions](https://github.com/hamdivazim/CodeGlob/discussions) or in [Issues](https://github.com/hamdivazim/CodeGlob/issues)
 - You could [open a pull request](https://github.com/hamdivazim/CodeGlob/pulls) to improve something you think could be better
+- If you want to contribute to the docs, [navigate here](https://github.com/hamdivazim/CodeGlob-Docs).
 - You could even just be supportive! That helps too :)
 
 ## License
