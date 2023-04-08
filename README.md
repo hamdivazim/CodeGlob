@@ -9,7 +9,7 @@
 CodeGlob is a social media service that will allow you to post your own blog, for free! You can post updates on ongoing projects or you can even post short code snippets as well. Create your own profile, pin your best posts or snippets and share code with the world!
 
 ## When Can I use it?
-CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to take 3-4 months (this is slightly exagerated).
+CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to take 3-4 months (this is slightly exagerated). You can test the site out by cloning this repository or visiting the site live [here](https://hamdivazim.github.io/CodeGlob/).
 
 ## The Team
 ### Front-end Development
