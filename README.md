@@ -27,7 +27,7 @@ CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to ta
 - [@jksshorts](https://youtube.com/@JKSshorts-fp8uh)
 - [@Ethanol9898](https://github.com/Ethanol9898)
 - [@FootballStuff10](https://www.youtube.com/@footballstuff10)
-- [@YatharthPatwa](https://github.com/YatharthPatwa)
+- [@YatharthPatwa](https://youtube.com/@ChessQuickies)
 ### Debugging
 - [@Octoboss1305](https://github.com/Octoboss1305)
 - [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
