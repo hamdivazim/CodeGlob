@@ -229,6 +229,7 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
+    float: right;
     margin-right: 30px;
 }
 
