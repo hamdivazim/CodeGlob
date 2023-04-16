@@ -12,6 +12,8 @@ CodeGlob is a social media service that will allow you to post your own blog, fo
 CodeGlob began development on the _29ᵗʰ of March 2023_ and is projected to take 3-4 months (this is slightly exagerated). You can test the site out by cloning this repository or visiting the site live [here](https://hamdivazim.github.io/CodeGlob/).
 
 ## The Team
+### Manager - [@hamdivazim](https://github.com/hamdivazim)
+CodeGlob is managed and maintained by [@hamdivazim](https://github.com/hamdivazim)
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
 - [@hamdivazim](https://github.com/hamdivazim)
