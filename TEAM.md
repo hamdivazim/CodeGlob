@@ -1,5 +1,8 @@
 # CodeGlob's Team
 
+### Manager - [@hamdivazim](https://github.com/hamdivazim)
+CodeGlob is developed and contributed to by the main nine below, but is managed and maintained by [@hamdivazim](https://github.com/hamdivazim).
+
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
 - [@hamdivazim](https://github.com/hamdivazim)
@@ -20,4 +23,5 @@
 - [@Octoboss1305](https://github.com/Octoboss1305)
 - [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
 ### Others
+These are others who are not part of the dev team, but have contributed in one way or another to the project.
 #### Feature Pitcher - @MKM12345
