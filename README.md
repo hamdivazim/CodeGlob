@@ -26,7 +26,6 @@ CodeGlob is managed and maintained by [@hamdivazim](https://github.com/hamdivazi
 - _Anonymous_
 - [@Octoboss1305](https://github.com/Octoboss1305)
 ### Advertisement
-- [@jksshorts](https://youtube.com/@JKSshorts-fp8uh)
 - [@Ethanol9898](https://github.com/Ethanol9898)
 - [@FootballStuff10](https://www.youtube.com/@footballstuff10)
 - [@YatharthPatwa](https://youtube.com/@ChessQuickies)
