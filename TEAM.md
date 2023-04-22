@@ -15,7 +15,6 @@ CodeGlob is developed and contributed to by the main nine below, but is managed 
 - _Anonymous_
 - [@Octoboss1305](https://github.com/Octoboss1305)
 ### Advertisement
-- @jksshorts
 - [@Ethanol9898](https://github.com/Ethanol9898)
 - [@FootballStuff10](https://www.youtube.com/@footballstuff10)
 - [@YatharthPatwa](https://github.com/YatharthPatwa)
