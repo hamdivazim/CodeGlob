@@ -294,7 +294,7 @@ body {
 
 .cross:hover { scale: 1.2; }
 
-.content {
+.content1 {
   display: flex;
   flex-direction: column;
   align-items: center;
