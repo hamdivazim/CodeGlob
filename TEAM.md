@@ -1,7 +1,7 @@
 # CodeGlob's Team
 
 ### Manager - [@hamdivazim](https://github.com/hamdivazim)
-CodeGlob is developed and contributed to by the main nine below, but is managed and maintained by [@hamdivazim](https://github.com/hamdivazim).
+CodeGlob is developed and contributed to by the main ten below, but is managed and maintained by [@hamdivazim](https://github.com/hamdivazim).
 
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
