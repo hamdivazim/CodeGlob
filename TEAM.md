@@ -6,6 +6,7 @@ CodeGlob is developed and contributed to by the main nine below, but is managed 
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
 - [@hamdivazim](https://github.com/hamdivazim)
+- [@MKM12345](https://github.com/MKM12345)
 ### Back-end Development:
 - [@hamdivazim](https://github.com/hamdivazim)
 - [@YatharthPatwa](https://github.com/YatharthPatwa)
@@ -23,4 +24,4 @@ CodeGlob is developed and contributed to by the main nine below, but is managed 
 - [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
 ### Others
 These are others who are not part of the dev team, but have contributed in one way or another to the project.
-#### Feature Pitcher - @MKM12345
+#### Feature Pitcher - [@MKM12345](https://github.com/MKM12345)
