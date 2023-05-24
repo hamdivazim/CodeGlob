@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <title>CodeGlob</title>
     <meta charset="UTF-8">
@@ -8,28 +7,61 @@
     <link rel="stylesheet" href="../assets/style.css">
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  </head>
+  
+    <style>
+        .border-animation {
+            position: relative;
+            display: inline-block;
+        }
 
-  <body>
+        .border-animation:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            border: 2px solid transparent;
+            border-radius: 5px;
+            z-index: -1;
+            animation: borderGlow 2s infinite linear;
+        }
+
+        @keyframes borderGlow {
+            0% {
+                box-shadow: 0 0 0 0 purple;
+            }
+            50% {
+                box-shadow: 0 0 0 6px purple;
+            }
+            100% {
+                box-shadow: 0 0 0 0 purple;
+            }
+        }
+    </style>
+</head>
+
+<body>
     <div class="topnav" id="topnav">
-      <a href="home.html" id="logo-nav"><img src="../assets/transparent-logo-small.png" alt="Logo" height="28px"></a>
-      <a href="foryou.html">For You</a>
-      <a href="snippets.html">Snippets</a>
-      <a href="docs/docs.html">Docs</a>
-      <a href="profile-page.html" id="profile-picture">
-        <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-        <span id="profile-text">Your Profile</span>
-      </a>
-      <a href="javascript:void(0);" class="icon" onclick="showNav()">
-        <i class="fa fa-bars"></i>
-      </a>
+        <a href="home.html" id="logo-nav"><img src="../assets/transparent-logo-small.png" alt="Logo" height="28px"></a>
+        <a href="foryou.html">For You</a>
+        <a href="snippets.html">Snippets</a>
+        <a href="docs/docs.html">Docs</a>
+        <a href="profile-page.html" id="profile-picture">
+            <div class="border-animation">
+                <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+            </div>
+            <span id="profile-text">Your Profile</span>
+        </a>
+        <a href="javascript:void(0);" class="icon" onclick="showNav()">
+            <i class="fa fa-bars"></i>
+        </a>
     </div>
 
-<div class="content1">
-  Profile page
-</div>
+    <div class="content1">
+        Profile page
+    </div>
 
     <script type="text/javascript" src="../assets/script.js"></script>
-  </body>
-
+</body>
 </html>
