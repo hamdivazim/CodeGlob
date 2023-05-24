@@ -9,33 +9,37 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
     <style>
-        .border-animation {
+        .avatar-container {
             position: relative;
-            display: inline-block;
         }
 
-        .border-animation:before {
+        .avatar-container .avatar {
+            border: 2px solid transparent;
+            border-radius: 50%;
+        }
+
+        .avatar-container .avatar:before {
             content: '';
             position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
+            top: -6px;
+            left: -6px;
+            right: -6px;
+            bottom: -6px;
             border: 2px solid transparent;
-            border-radius: 5px;
-            z-index: -1;
-            animation: borderGlow 2s infinite linear;
+            border-radius: 50%;
+            box-shadow: 0 0 10px 5px purple;
+            animation: neonGlowAnimation 2s infinite linear;
         }
 
-        @keyframes borderGlow {
+        @keyframes neonGlowAnimation {
             0% {
-                box-shadow: 0 0 0 0 purple;
+                box-shadow: 0 0 10px 5px purple;
             }
             50% {
-                box-shadow: 0 0 0 6px purple;
+                box-shadow: 0 0 20px 10px purple;
             }
             100% {
-                box-shadow: 0 0 0 0 purple;
+                box-shadow: 0 0 10px 5px purple;
             }
         }
     </style>
@@ -48,7 +52,7 @@
         <a href="snippets.html">Snippets</a>
         <a href="docs/docs.html">Docs</a>
         <a href="profile-page.html" id="profile-picture">
-            <div class="border-animation">
+            <div class="avatar-container">
                 <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
             </div>
             <span id="profile-text">Your Profile</span>
