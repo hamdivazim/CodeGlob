@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html>
-
 <head>
     <title>CodeGlob</title>
     <meta charset="UTF-8">
@@ -7,28 +7,69 @@
     <link rel="stylesheet" href="../assets/style.css">
     <link rel="icon" type="image/x-icon" href="../assets/favicon.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  </head>
+  
+    <style>
+        .avatar-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+        }
 
-  <body>
+        .avatar-container .avatar {
+            position: relative;
+            border: 2px solid transparent;
+            border-radius: 50%;
+        }
+
+        .avatar-container .avatar:before {
+            content: '';
+            position: absolute;
+            top: -6px;
+            left: -6px;
+            right: -6px;
+            bottom: -6px;
+            border: 2px solid transparent;
+            border-radius: 50%;
+            box-shadow: 0 0 10px 5px purple;
+            animation: neonGlowAnimation 2s infinite linear;
+        }
+
+        @keyframes neonGlowAnimation {
+            0% {
+                box-shadow: 0 0 10px 5px purple;
+            }
+            50% {
+                box-shadow: 0 0 20px 10px purple;
+            }
+            100% {
+                box-shadow: 0 0 10px 5px purple;
+            }
+        }
+    </style>
+</head>
+
+<body>
     <div class="topnav" id="topnav">
-      <a href="home.html" id="logo-nav"><img src="../assets/transparent-logo-small.png" alt="Logo" height="28px"></a>
-      <a href="foryou.html">For You</a>
-      <a href="snippets.html">Snippets</a>
-      <a href="docs/docs.html">Docs</a>
-      <a href="profile-page.html" id="profile-picture">
-        <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
-        <span id="profile-text">Your Profile</span>
-      </a>
-      <a href="javascript:void(0);" class="icon" onclick="showNav()">
-        <i class="fa fa-bars"></i>
-      </a>
+        <a href="home.html" id="logo-nav"><img src="../assets/transparent-logo-small.png" alt="Logo" height="28px"></a>
+        <a href="foryou.html">For You</a>
+        <a href="snippets.html">Snippets</a>
+        <a href="docs/docs.html">Docs</a>
+        <div class="avatar-container">
+            <a href="profile-page.html" id="profile-picture">
+                <img src="../assets/img_avatar.png" alt="Profile" class="avatar">
+                <span id="profile-text">Your Profile</span>
+            </a>
+        </div>
+        <a href="javascript:void(0);" class="icon" onclick="showNav()">
+            <i class="fa fa-bars"></i>
+        </a>
     </div>
 
-<div class="content1">
-  Profile page
-</div>
+    <div class="content1">
+        Profile page
+    </div>
 
     <script type="text/javascript" src="../assets/script.js"></script>
-  </body>
-
+</body>
 </html>
