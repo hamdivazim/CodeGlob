@@ -17,6 +17,7 @@ CodeGlob is managed and maintained by [@hamdivazim](https://github.com/hamdivazi
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
 - [@hamdivazim](https://github.com/hamdivazim)
+- [@MKM12345](https://github.com/MKM12345)
 ### Back-end Development:
 - [@hamdivazim](https://github.com/hamdivazim)
 - [@YatharthPatwa](https://github.com/YatharthPatwa)
