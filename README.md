@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hamdivazim/CodeGlob/main/assets/codeglob-logo-small.jpg" width="90%"/><br/>
   <h1>CodeGlob - The Coding Social Media Project</h1>
 </p>
-*NOTE*: Development is on pause for now.
+*NOTE*: Development has been on close for a while due to lack of sever activity between members but will re-open sometime in the future.
 <br><br>
 
 ## What is CodeGlob?
