@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/hamdivazim/CodeGlob/main/assets/codeglob-logo-small.jpg" width="90%"/><br/>
   <h1>CodeGlob - The Coding Social Media Project</h1>
 </p>
-*NOTE*: Development has been on close for a while due to lack of sever activity between members but will re-open sometime in the future.
+*NOTE*: Development is currently on pause and we hope to continue development sometime in the future.
 <br><br>
 
 ## What is CodeGlob?
 CodeGlob is a social media service that will allow you to post your own blog, for free! You can post updates on ongoing projects or you can even post short code snippets as well. Create your own profile, pin your best posts or snippets and share code with the world!
 
 ## When can I use it?
-CodeGlob began development on the _29ᵗʰ of March 2023_ and is currently paused on development (we will hopefully recontinue soon). You can test the site out by cloning this repository or visiting the site live [here](https://hamdivazim.github.io/CodeGlob/).
+CodeGlob began development on the _29ᵗʰ of March 2023_ and is currently paused on development (we will hopefully continue soon). You can test the site out by cloning this repository or visiting the site live [here](https://hamdivazim.github.io/CodeGlob/).
 
 ## The Team
 ### Manager - [@hamdivazim](https://github.com/hamdivazim)
@@ -17,7 +17,6 @@ CodeGlob is managed and maintained by [@hamdivazim](https://github.com/hamdivazi
 ### Front-end Development
 - [@RT-RS](https://github.com/RT-RS)
 - [@hamdivazim](https://github.com/hamdivazim)
-- [@MKM12345](https://github.com/MKM12345)
 ### Back-end Development:
 - [@hamdivazim](https://github.com/hamdivazim)
 - [@YatharthPatwa](https://github.com/YatharthPatwa)
@@ -33,6 +32,8 @@ CodeGlob is managed and maintained by [@hamdivazim](https://github.com/hamdivazi
 ### Debugging
 - [@Octoboss1305](https://github.com/Octoboss1305)
 - [@OstrichA](https://scratch.mit.edu/users/OstrichA/)
+### Feature Pitchers/External Contributors
+- [@MKM12345](https://github.com/MKM12345)
 ### Others
 Find other members of our team [here](https://github.com/hamdivazim/CodeGlob/blob/main/TEAM.md).
 
