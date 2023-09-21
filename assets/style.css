@@ -210,25 +210,9 @@ body {
   color: rgba(0, 0, 0, 0.65);
 }
 
-    .button-style:hover {
-      background-image: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff);
-      background-size: 1000%;
-      animation: rainbow 1.5s ease-in-out infinite;
-      box-shadow: 0px 12px 24px 0px rgba(0,0,0,0.2);
-      transform: scale(1.1);
-    }
-
-    @keyframes rainbow {
-      0% {
-        background-position: 0% 50%;
-      }
-      50% {
-        background-position: 100% 50%;
-      }
-      100% {
-        background-position: 0% 50%;
-      }
-    }
+.button-style:hover {
+  transform: translateY(-1px);
+}
 
 .button-style:active {
   background-color: #F0F0F1;
