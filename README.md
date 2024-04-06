@@ -2,8 +2,11 @@
   <img src="https://raw.githubusercontent.com/hamdivazim/CodeGlob/main/assets/codeglob-logo-small.jpg" width="90%"/><br/>
   <h1>CodeGlob - The Coding Social Media Project</h1>
 </p>
-<b>*NOTE*</b>: Development is currently on pause and we hope to continue development sometime in the future.
-<br><br>
+
+<h2> This project is no longer being worked on and very likely won't in the future. </h2>
+
+<!-- <b>*NOTE*</b>: Development is currently on pause and we hope to continue development sometime in the future.
+<br><br> 
 
 ## What is CodeGlob?
 CodeGlob is a social media service that will allow you to post your own blog, for free! You can post updates on ongoing projects or you can even post short code snippets as well. Create your own profile, pin your best posts or snippets and share code with the world!
